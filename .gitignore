@@ -1,0 +1,26 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment files
+.env
+.env.*
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# XAMPP
+.htaccess
+error_log
+
+# Dependencies (if any)
+/vendor/
+/node_modules/
