@@ -119,3 +119,10 @@ skor_akhir = Σ(nilai_normalisasi * bobot_kriteria)
 ## Lisensi
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+
+## Special Thanks
+M. Faris Al Hakim, S.Pd., M.Cs.
+HAMMAM JITAPSARA (2304140050)
+YUDHISTIRA LUCKY OKTAVIAN (2304140080)
+AISYAH WILAVY ZAHRA (2304140068)
+ARIF SATRIA TAMA (2304140063)
